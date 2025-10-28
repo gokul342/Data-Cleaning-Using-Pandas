@@ -69,6 +69,4 @@ HR_Data_Cleaning_and_Processing/
 
 ### 👤 Author
 **Gokulakannan**  
-📧 your.email@example.com  
-💼 [LinkedIn Profile Link]  
-📁 [GitHub Profile Link]
+
